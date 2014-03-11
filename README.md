@@ -23,6 +23,6 @@ Script de demostración del funcionamiento de la función implementada. Ejecuta 
 ___
 
 
-Autor: Antonio José Moya Díaz
+Autor: Antonio José Moya Díaz - ajmoyad@gmail.com
 
 Fecha: 22 de junio de 2012
